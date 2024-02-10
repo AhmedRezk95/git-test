@@ -1,1 +1,2 @@
 this test from feature
+ this is another test\n
