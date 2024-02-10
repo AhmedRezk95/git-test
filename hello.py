@@ -1,2 +1,3 @@
 
-print('hello world')
+print('hello world\nhello Ali\n')
+
